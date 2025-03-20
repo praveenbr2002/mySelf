@@ -1,2 +1,2 @@
 # mySelf
-hsoted at https://praveenbr2002.github.io/mySelf/
+hosted at https://praveenbr2002.github.io/mySelf/
